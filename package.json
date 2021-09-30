@@ -11,5 +11,8 @@
     "url": "git@github-personal:pedrocarr/node_course_frontendmasters.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
